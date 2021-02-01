@@ -1,0 +1,16 @@
+body{
+    background-color: thistle;
+}
+
+p{
+    color: darkgreen;
+    text-align: left;
+    text-align: justify;
+    text-indent: 0px;
+    line-height: 1.7;
+    word-spacing: 1.7px;
+    text-shadow: 3px 2px 2px yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
